@@ -1,5 +1,39 @@
-.s1mple {
-    width: 20%;
-    height: 20%;
+body {
+    background-color: blanchedalmond;
+}
+.main{
+    border: black solid 1px;
+    width: 373px;
+    height: 490px;
     margin: ;
+    display: inline-block;
+}
+.s1mple {
+    width: 350px;
+    margin: 10px;
+    border: black solid 1px;
+
+}
+.h4 {
+    width: 250px;
+
+    margin: 1px 1px 5px 10px;
+    border: black solid 1px;
+    padding-left: 100px;
+
+    
+    
+}
+.div {
+    width: 350px;
+
+    margin: 1px 1px 5px 10px;
+    border: black solid 1px;
+
+}
+.navi {
+    width: 25px;
+    margin-left: 3%;
+
+    <!-- Я пока оставлю так но хотел бы узнать как сделать это лучше,мне не нравится что оно двигает список,я уже многое попробывал но особо ничего не получалось -->
 }
