@@ -5,8 +5,8 @@ body {
     border: black solid 1px;
     width: 373px;
     height: 490px;
-    margin: ;
     display: inline-block;
+    vertical-align: top;
 }
 .s1mple {
     width: 350px;
